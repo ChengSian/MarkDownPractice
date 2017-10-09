@@ -19,3 +19,13 @@
     <div class="sample_footer">
         &copy; 2004 Foo Corporation
     </div>
+
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
