@@ -29,3 +29,7 @@
 - - -
 
 ---------------------------------------
+
+
+[id]: http://example.com/longish/path/to/resource/here
+    "Optional Title Here"
